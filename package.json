@@ -1,0 +1,29 @@
+{
+    "name": "solar-escape",
+    "version": "1.0.0",
+    "description": "Escape before the sun dies",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joranrood/solar-escape.git"
+    },
+    "contributors": [
+        {
+            "name": "Murtada al Mousawy",
+            "email": "info@murtada.nl",
+            "url": "https://murtada.nl/"
+        },
+        {
+            "name": "Joran Rood",
+            "email": "joran@rood.me",
+            "url": "https://joran.rood.me/"
+        }
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/joranrood/solar-escape/issues"
+    },
+    "homepage": "https://github.com/joranrood/solar-escape#readme",
+    "devDependencies": {
+        "gulp": "^4.0.0"
+    }
+}
