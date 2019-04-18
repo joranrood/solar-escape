@@ -24,6 +24,18 @@
     },
     "homepage": "https://github.com/joranrood/solar-escape#readme",
     "devDependencies": {
-        "gulp": "^4.0.0"
+        "gulp": "^4.0.0",
+        "gulp-better-rollup": "^4.0.1",
+        "gulp-buffer": "0.0.2",
+        "gulp-rollup": "^2.16.2",
+        "gulp-typescript": "^5.0.1",
+        "rollup": "^1.10.0",
+        "rollup-plugin-node-resolve": "^4.2.3",
+        "rollup-plugin-typescript": "^1.0.1",
+        "rollup-plugin-typescript2": "^0.20.1",
+        "typescript": "^3.4.3"
+    },
+    "dependencies": {
+        "three": "^0.103.0"
     }
 }

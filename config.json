@@ -1,0 +1,26 @@
+{
+    "src_base": "src",
+    "dest_base": "build",
+    "html": {
+        "src": "*.html"
+    },
+    "typescript": {
+        "src": "app/index.ts",
+        "dest": "app/app.js",
+        "options": {
+            "lib": [
+                "dom",
+                "es6"
+            ],
+            "module": "system",
+            "moduleResolution": "node",
+            "outFile": "app.js",
+            "noImplicitAny": true,
+            "sourceMap": true,
+            "target": "es6"
+        }
+    },
+    "rollup": {
+        "options": ""
+    }
+}
